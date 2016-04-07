@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <CheckBoxPreference
+        android:title="@string/title_condition"
+        android:summary="@string/cost_condition"
+        android:key="good"
+        android:layout="@layout/custom_checkbox_preference"
+        android:icon="@drawable/ic_air_conditioner" />
+
+    <CheckBoxPreference
+        android:title="@string/title_smoke"
+        android:summary="@string/cost_smoke"
+        android:key="good1"
+        android:layout="@layout/custom_checkbox_preference"
+        android:icon="@drawable/ic_smoking"
+
+        />
+
+    <CheckBoxPreference
+        android:title="@string/title_loader"
+        android:summary="@string/cost_loader"
+        android:key="good2"
+        android:layout="@layout/custom_checkbox_preference"
+        android:icon="@drawable/ic_briefcase" />
+
+</PreferenceScreen>

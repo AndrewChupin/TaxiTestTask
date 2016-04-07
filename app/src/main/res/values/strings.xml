@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TaxiTestTask</string>
+
+    <string name="cost_condition">50 руб.</string>
+    <string name="title_condition">Кондиционер</string>
+
+    <string name="cost_smoke">20 руб.</string>
+    <string name="title_smoke">Смоки</string>
+
+    <string name="cost_loader">100 руб.</string>
+    <string name="title_loader">Грузчик</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_titile">Сергей Фефилов</string>
+    <string name="porch">Подъезд</string>
+    <string name="apartment">Квартира/Офис</string>
+    <string name="description">Описание</string>
+    <string name="stream_exemption">Нет соединения</string>
+    <string name="add_address">Добавить адрес</string>
+    <string name="pay_type">Тип оплаты используется по умолчанию, его можно изменить при заказе</string>
+    <string name="hint_point">Введите точку В для опредления пути</string>
+    <string name="order">Заказать</string>
+    <string name="adress_text_button">Уточнение адреса</string>
+    <string name="suggestion_text_button">Пожелания</string>
+    <string name="now__text_button">Сейчас</string>
+    <string name="press_plus">Нажмите плюс</string>
+    <string name="add_card">Добавить карту</string>
+    <string name="pay_bonus">Оплачивать бонусами</string>
+    <string name="money">Наличные</string>
+    <string name="card">MasterCard</string>
+    <string name="kolosok">Со счета ОАО Колосок</string>
+</resources>

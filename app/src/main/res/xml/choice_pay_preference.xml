@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:title="@string/money"
+        android:key="money"
+        android:widgetLayout="@layout/custom_radiobutton_preference"
+        android:icon="@drawable/ic_wallet" />
+
+    <CheckBoxPreference
+        android:title="@string/card"
+        android:key="card"
+        android:widgetLayout="@layout/custom_radiobutton_preference"
+        android:icon="@drawable/ic_credit_card" />
+
+    <CheckBoxPreference
+        android:title="@string/kolosok"
+        android:key="kolosok"
+        android:widgetLayout="@layout/custom_radiobutton_preference"
+        android:icon="@drawable/ic_account_multiple" />
+
+</PreferenceScreen>
